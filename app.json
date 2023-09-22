@@ -3,6 +3,7 @@
     "name": "test_expo",
     "slug": "test_expo",
     "version": "1.0.0",
+    "scheme": "myexpoapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
